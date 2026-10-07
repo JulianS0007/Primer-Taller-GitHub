@@ -60,5 +60,7 @@ Para presentar resultado se pueden utilizar gráficas de este estilo:
 [Ejemplo](Gráfica_ejemplo.png)
 
 ## Referencias bibliográficas
-
+Acá iría una lista de las referencias utilizadas en formato APA, algo así:
+1. Apellido I. (Mes y año), "Titulo de artíuclo". Tomado de LINK
+2. Apellido I. (Mes y año), "Titulo de artíuclo". Tomado de LINK
 
