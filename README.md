@@ -57,6 +57,7 @@ La recolección de datos puede verse en tablas cómo estas:
 
 ## Presentación de resultados 
 Para presentar resultado se pueden utilizar gráficas de este estilo: 
+
 [Ejemplo](Gráfica_ejemplo.png)
 
 ## Referencias bibliográficas
