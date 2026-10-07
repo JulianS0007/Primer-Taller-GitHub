@@ -47,7 +47,7 @@ Generar un modelo que sea capaz de predecir el valor comercial de carro en el fu
 8. Presentación de resultado
     - Visualizar y graficar los resultados
     - Presentar las pruebas hechas
-9. Conclsuión
+9. Conclusión
     - Uitilzar los resultados obtenidos para conlcuir el resultado del proyecto.
 
 ## Recolección de datos
