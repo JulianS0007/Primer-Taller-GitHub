@@ -1,6 +1,8 @@
 # Primer-Taller-GitHub
 
 #### Julian Sanz, 202620978
+#### Gabriela Ruiz, 202516875
+
 #### Cada uno ponga su nombre y codigo
 
 ## Descripción del proyecto
