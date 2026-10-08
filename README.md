@@ -3,6 +3,7 @@
 #### Julian Sanz, 202620978
 #### Gabriela Ruiz, 202516875
 #### María Alejandra Alvarado, 202510182
+#### Paula Mendez, 202520720
 
 #### Cada uno ponga su nombre y codigo (cuando ya estén todos quiten esto)
 
