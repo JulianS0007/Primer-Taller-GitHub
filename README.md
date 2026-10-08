@@ -66,5 +66,3 @@ Para presentar los resultados, se pueden utilizar gráficas de este estilo:
 Acá iría una lista de las referencias utilizadas en formato APA, algo así:
 1. Apellido I. (Mes y año), "Titulo de artíuclo". Tomado de LINK
 2. Apellido I. (Mes y año), "Titulo de artíuclo". Tomado de LINK
-
-> Pie de pagina
