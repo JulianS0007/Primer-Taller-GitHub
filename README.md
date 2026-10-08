@@ -4,7 +4,7 @@
 #### Gabriela Ruiz, 202516875
 #### María Alejandra Alvarado, 202510182
 
-#### Cada uno ponga su nombre y codigo
+#### Cada uno ponga su nombre y codigo (cuando ya estén todos quiten esto)
 
 ## Descripción del proyecto
 Este proyecto busca analizar el precio comercial de los carros en Colombia en el pasado, evaluando diversas variables y las relaciones entre ellas; para después predecir la depresiación y el valor de un vehiculo determinado. 
